@@ -1,0 +1,1160 @@
+﻿  AntiAntiAim.cpp
+h:\csgo\corruption.vip-master\vector.h(122): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(124): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(126): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(215): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(216): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(787): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(789): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(791): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(832): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(834): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(836): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(540): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(541): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(542): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(542): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(543): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(543): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(544): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(544): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(545): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(545): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(551): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(551): warning C4311: 'type cast': pointer truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4302: 'type cast': truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4312: 'type cast': conversion from 'unsigned long' to 'ScriptCreatedItem *' of greater size
+h:\csgo\corruption.vip-master\entities.h(617): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(617): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(625): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(625): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(626): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(626): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(627): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(627): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(628): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(628): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(629): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(629): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(630): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(630): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(718): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(723): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(733): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(750): warning C4244: 'initializing': conversion from 'ULONG_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(751): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+h:\csgo\corruption.vip-master\entities.h(833): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(833): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(834): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(834): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(835): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(835): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(841): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(841): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(842): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(842): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(843): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(843): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(844): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(844): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned short *' of greater size
+h:\csgo\corruption.vip-master\entities.h(845): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(845): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1256): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(1263): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(979): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(982): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(982): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4312: 'type cast': conversion from 'unsigned long' to 'CLocalPlayerExclusive *' of greater size
+h:\csgo\corruption.vip-master\entities.h(983): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(983): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4312: 'type cast': conversion from 'unsigned long' to 'CollisionProperty *' of greater size
+h:\csgo\corruption.vip-master\entities.h(984): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(984): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(985): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(985): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(986): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(986): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(987): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(987): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(988): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(988): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(989): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(989): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(990): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(990): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(991): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(991): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(992): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(992): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(993): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(993): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(996): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(996): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(998): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(998): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(999): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(999): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1127): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsOriginFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1135): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned long **' of greater size
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1148): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsAnglesFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAngleFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4312: 'type cast': conversion from 'DWORD' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1257): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'MOV'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1258): warning C4467: usage of ATL attributes is deprecated
+h:\csgo\corruption.vip-master\entities.h(1258): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1258): error C2059: syntax error: '<default int type>'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1264): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2065: 'CALL': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2337: 'EAX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2143: syntax error: missing ']' before '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2059: syntax error: '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2045: 'DS': label redefined
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+  Autowall.cpp
+h:\csgo\corruption.vip-master\vector.h(122): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(124): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(126): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(215): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(216): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(787): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(789): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(791): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(832): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(834): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(836): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(540): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(541): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(542): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(542): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(543): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(543): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(544): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(544): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(545): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(545): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(551): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(551): warning C4311: 'type cast': pointer truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4302: 'type cast': truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4312: 'type cast': conversion from 'unsigned long' to 'ScriptCreatedItem *' of greater size
+h:\csgo\corruption.vip-master\entities.h(617): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(617): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(625): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(625): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(626): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(626): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(627): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(627): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(628): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(628): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(629): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(629): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(630): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(630): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(718): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(723): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(733): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(750): warning C4244: 'initializing': conversion from 'ULONG_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(751): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+h:\csgo\corruption.vip-master\entities.h(833): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(833): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(834): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(834): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(835): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(835): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(841): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(841): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(842): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(842): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(843): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(843): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(844): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(844): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned short *' of greater size
+h:\csgo\corruption.vip-master\entities.h(845): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(845): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1256): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(1263): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(979): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(982): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(982): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4312: 'type cast': conversion from 'unsigned long' to 'CLocalPlayerExclusive *' of greater size
+h:\csgo\corruption.vip-master\entities.h(983): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(983): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4312: 'type cast': conversion from 'unsigned long' to 'CollisionProperty *' of greater size
+h:\csgo\corruption.vip-master\entities.h(984): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(984): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(985): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(985): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(986): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(986): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(987): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(987): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(988): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(988): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(989): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(989): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(990): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(990): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(991): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(991): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(992): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(992): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(993): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(993): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(996): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(996): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(998): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(998): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(999): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(999): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1127): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsOriginFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1135): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned long **' of greater size
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1148): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsAnglesFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAngleFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4312: 'type cast': conversion from 'DWORD' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1257): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'MOV'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1258): warning C4467: usage of ATL attributes is deprecated
+h:\csgo\corruption.vip-master\entities.h(1258): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1258): error C2059: syntax error: '<default int type>'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1264): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2065: 'CALL': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2337: 'EAX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2143: syntax error: missing ']' before '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2059: syntax error: '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2045: 'DS': label redefined
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\autowall.cpp(97): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Chams.cpp
+h:\csgo\corruption.vip-master\vector.h(122): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(124): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(124): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(125): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(125): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(126): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(208): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(215): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(216): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+h:\csgo\corruption.vip-master\vector.h(787): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(789): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(789): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(790): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(790): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(791): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\vector.h(832): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'sqrtss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(834): error C2146: syntax error: missing ';' before identifier 'xmm0'
+h:\csgo\corruption.vip-master\vector.h(834): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'movss'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'movss': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(835): error C2146: syntax error: missing ';' before identifier 'root'
+h:\csgo\corruption.vip-master\vector.h(835): error C2065: 'xmm0': undeclared identifier
+h:\csgo\corruption.vip-master\vector.h(836): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(540): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(540): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(541): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(541): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(542): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(542): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(542): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(543): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(543): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(543): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(544): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(544): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(544): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(545): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(545): warning C4311: 'type cast': pointer truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4302: 'type cast': truncation from 'ScriptCreatedItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(545): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(551): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(551): warning C4311: 'type cast': pointer truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4302: 'type cast': truncation from 'AttributeContainer *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(551): warning C4312: 'type cast': conversion from 'unsigned long' to 'ScriptCreatedItem *' of greater size
+h:\csgo\corruption.vip-master\entities.h(617): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(617): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(617): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(625): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(625): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(625): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(626): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(626): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(626): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(627): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(627): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(627): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(628): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(628): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(628): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(629): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(629): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(629): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(630): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(630): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(630): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(718): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(718): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(723): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(723): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(733): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(733): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(750): warning C4244: 'initializing': conversion from 'ULONG_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(751): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+h:\csgo\corruption.vip-master\entities.h(833): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(833): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(833): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(834): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(834): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(834): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(835): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(835): warning C4311: 'type cast': pointer truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4302: 'type cast': truncation from 'CLocalPlayerExclusive *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(835): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(841): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(841): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(841): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(842): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(842): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(842): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(843): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(843): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(843): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned char *' of greater size
+h:\csgo\corruption.vip-master\entities.h(844): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(844): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(844): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned short *' of greater size
+h:\csgo\corruption.vip-master\entities.h(845): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(845): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(845): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1256): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(1263): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\entities.h(979): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(979): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(982): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(982): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(982): warning C4312: 'type cast': conversion from 'unsigned long' to 'CLocalPlayerExclusive *' of greater size
+h:\csgo\corruption.vip-master\entities.h(983): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(983): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(983): warning C4312: 'type cast': conversion from 'unsigned long' to 'CollisionProperty *' of greater size
+h:\csgo\corruption.vip-master\entities.h(984): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(984): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(984): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(985): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(985): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(985): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(986): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(986): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(986): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(987): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(987): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(987): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(988): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(988): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(988): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(989): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(989): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(989): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(990): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(990): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(990): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(991): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(991): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(991): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(992): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(992): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(992): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(993): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(993): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(993): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(996): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(996): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(996): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(998): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(998): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(998): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(999): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(999): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(999): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1000): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1001): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1002): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1003): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1004): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1005): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1006): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1007): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1008): warning C4312: 'type cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1009): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1010): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1011): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1012): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1013): warning C4312: 'type cast': conversion from 'unsigned long' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1017): warning C4312: 'type cast': conversion from 'unsigned long' to 'AttributeContainer *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1048): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1058): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1064): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1069): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1078): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1082): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1112): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1127): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsOriginFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1135): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned long **' of greater size
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1137): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1138): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1139): warning C4312: 'type cast': conversion from 'DWORD' to 'unsigned int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1148): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAbsAnglesFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1159): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1163): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1183): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1188): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1208): warning C4312: 'type cast': conversion from 'DWORD' to 'SetAngleFn' of greater size
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1214): warning C4312: 'type cast': conversion from 'DWORD' to 'QAngle *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1218): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1239): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1248): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1252): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1257): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1257): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'MOV'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1258): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1258): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1258): warning C4467: usage of ATL attributes is deprecated
+h:\csgo\corruption.vip-master\entities.h(1258): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1258): error C2059: syntax error: '<default int type>'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1264): error C2146: syntax error: missing ';' before identifier 'ECX'
+h:\csgo\corruption.vip-master\entities.h(1264): error C2065: 'ECX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'MOV': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'EAX'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'EAX': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2275: 'DWORD': illegal use of this type as an expression
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(156): note: see declaration of 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'PTR'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2065: 'PTR': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1265): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1265): error C2337: 'ECX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2065: 'CALL': undeclared identifier
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2146: syntax error: missing ';' before identifier 'DS'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2337: 'EAX': attribute not found
+h:\csgo\corruption.vip-master\entities.h(1266): error C2143: syntax error: missing ']' before '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2059: syntax error: '+'
+h:\csgo\corruption.vip-master\entities.h(1266): error C2045: 'DS': label redefined
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1271): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1272): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1276): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1279): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1282): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4311: 'type cast': pointer truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4302: 'type cast': truncation from 'IClientEntity *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1287): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+h:\csgo\corruption.vip-master\entities.h(1544): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+h:\csgo\corruption.vip-master\chams.cpp(9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\chams.cpp(11): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(12): error C2146: syntax error: missing ';' before identifier 'name'
+h:\csgo\corruption.vip-master\chams.cpp(12): error C2146: syntax error: missing ';' before identifier 'mov'
+h:\csgo\corruption.vip-master\chams.cpp(12): error C2065: 'mov': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(12): error C2146: syntax error: missing ';' before identifier 'ecx'
+h:\csgo\corruption.vip-master\chams.cpp(12): error C2065: 'ecx': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(13): error C2146: syntax error: missing ';' before identifier 'call'
+h:\csgo\corruption.vip-master\chams.cpp(13): error C2065: 'call': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(14): error C2146: syntax error: missing ';' before identifier 'dwFunction'
+h:\csgo\corruption.vip-master\chams.cpp(14): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\chams.cpp(21): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+h:\csgo\corruption.vip-master\chams.cpp(23): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(23): error C2143: syntax error: missing ';' before 'constant'
+h:\csgo\corruption.vip-master\chams.cpp(24): error C2146: syntax error: missing ';' before identifier 'push'
+h:\csgo\corruption.vip-master\chams.cpp(24): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(24): error C2143: syntax error: missing ';' before 'constant'
+h:\csgo\corruption.vip-master\chams.cpp(25): error C2146: syntax error: missing ';' before identifier 'push'
+h:\csgo\corruption.vip-master\chams.cpp(25): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(25): error C2143: syntax error: missing ';' before 'constant'
+h:\csgo\corruption.vip-master\chams.cpp(26): error C2146: syntax error: missing ';' before identifier 'push'
+h:\csgo\corruption.vip-master\chams.cpp(26): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(27): error C2146: syntax error: missing ';' before identifier 'pBuffer'
+h:\csgo\corruption.vip-master\chams.cpp(27): error C2146: syntax error: missing ';' before identifier 'push'
+h:\csgo\corruption.vip-master\chams.cpp(27): error C2065: 'push': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(28): error C2146: syntax error: missing ';' before identifier 'resourceName'
+h:\csgo\corruption.vip-master\chams.cpp(28): error C2146: syntax error: missing ';' before identifier 'mov'
+h:\csgo\corruption.vip-master\chams.cpp(28): error C2065: 'mov': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(28): error C2146: syntax error: missing ';' before identifier 'ecx'
+h:\csgo\corruption.vip-master\chams.cpp(28): error C2065: 'ecx': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(29): error C2146: syntax error: missing ';' before identifier 'call'
+h:\csgo\corruption.vip-master\chams.cpp(29): error C2065: 'call': undeclared identifier
+h:\csgo\corruption.vip-master\chams.cpp(30): error C2146: syntax error: missing ';' before identifier 'dwFunction'
+h:\csgo\corruption.vip-master\chams.cpp(30): error C2143: syntax error: missing ';' before '}'
+h:\csgo\corruption.vip-master\chams.cpp(82): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+h:\csgo\corruption.vip-master\chams.cpp(79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\chams.cpp(80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\chams.cpp(81): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+h:\csgo\corruption.vip-master\chams.cpp(89): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Controls.cpp
